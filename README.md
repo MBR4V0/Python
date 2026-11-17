@@ -1,14 +1,6 @@
 # 🐍 Python
 
-Exercícios, estudos e projetos em Python desenvolvidos durante [curso/faculdade, ano].
-
-## 📂 Estrutura
-
-| Pasta | Conteúdo |
-|-------|----------|
-| `01-basico/` | Variáveis, condicionais, laços |
-| `02-estruturas/` | Listas, dicionários, funções |
-| `03-projetos/` | [Nome dos projetos] |
+Exercícios, estudos e projetos em Python desenvolvidos durante o curso de Ciência de Dados para Negócios - FATEC Votorantim.
 
 ## 🛠️ Tecnologias
 Python 3.x · [pandas / numpy / matplotlib, se usar]
