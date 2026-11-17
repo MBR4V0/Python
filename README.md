@@ -11,4 +11,4 @@ python caminho/do/arquivo.py
 ​```
 
 ## 👤 Autor
-Marcel Monteiro Balduino · [LinkedIn] · [e-mail]
+Marcel Monteiro Balduino  · [m.balduino@icloud.com]
